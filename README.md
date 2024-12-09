@@ -27,10 +27,11 @@
 Here are some screenshots of the application in action:
 
 - **Input Screen**:
-  ![Input Screenshot](path-to-your-screenshot.png)
+  ![Input Screenshot](https://github.com/Shryy/Code_Analyzer/blob/2f35284f4f390d161a35f517859185fe070b6c6b/Input.png
+)
 
 - **Result Screen**:
-  ![Result Screenshot](path-to-another-screenshot.png)
+  ![Result Screenshot](https://github.com/Shryy/Code_Analyzer/blob/2f35284f4f390d161a35f517859185fe070b6c6b/result.png)
 
 
 
