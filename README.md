@@ -1,7 +1,7 @@
 # Code_Analyzer
 ## How to Run the Project
 
-1. Clone the repository:
+1. Clone the repository:git clone https://github.com/username/repository-name.git cd repository-name
 
 2. Install required dependencies:pip install -r requirements.txt
 
@@ -27,8 +27,7 @@
 Here are some screenshots of the application in action:
 
 - **Input Screen**:
-  ![Input Screenshot](https://github.com/Shryy/Code_Analyzer/blob/2f35284f4f390d161a35f517859185fe070b6c6b/Input.png
-)
+  ![Input Screenshot](https://github.com/Shryy/Code_Analyzer/blob/eaa4700a267914333f48984daa73ebc15d69bf3b/Input.png)
 
 - **Result Screen**:
   ![Result Screenshot](https://github.com/Shryy/Code_Analyzer/blob/2f35284f4f390d161a35f517859185fe070b6c6b/result.png)
