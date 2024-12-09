@@ -1,7 +1,7 @@
 # Code_Analyzer
 ## How to Run the Project
 
-1. Clone the repository:git clone https://github.com/username/repository-name.git cd repository-name
+1. Clone the repository:git clone https://github.com/Shryy/Code_Analyzer.git cd Code_Analyzer
 
 2. Install required dependencies:pip install -r requirements.txt
 
